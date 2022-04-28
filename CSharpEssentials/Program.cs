@@ -92,3 +92,7 @@ public class ShoppingList
     public int quantity { get; set; }
 }
 
+//Namespace: System.Collections.Specialized
+//HybridDictionary
+//OrderedDictionary
+//StringCollection
